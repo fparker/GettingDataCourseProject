@@ -1,0 +1,23 @@
+Codebook
+
+Activity
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+
+Subject_ID
+
+1  to 30 with combined Test and training sets
+
+
+Feature Variables  (561)
+
+V1-V561
+
+
+Feature Names taken from features file for descriptions.
