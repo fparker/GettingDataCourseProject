@@ -1,7 +1,20 @@
+<<<<<<< HEAD
+=======
+GettingDataCourseProject
+========================
+
+Course Project for Peer Evaluation
+
+>>>>>>> d7bf05947a9251807a724a3400ba9ced65b47f8e
 Assignment output file:  dataset.txt
 
 run_analysis.R is the analysis script for the 5 parts of the assignment. This script will generate dataset.txt.   Uploads of the additional analysis pieces were not requested.  
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> d7bf05947a9251807a724a3400ba9ced65b47f8e
 Below is the description of original data set
 
 ==================================================================
@@ -10,7 +23,11 @@ Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
+<<<<<<< HEAD
 DITEN - Università degli Studi di Genova.
+=======
+DITEN - UniversitÃ  degli Studi di Genova.
+>>>>>>> d7bf05947a9251807a724a3400ba9ced65b47f8e
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
